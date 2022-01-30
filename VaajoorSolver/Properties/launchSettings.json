@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VaajoorSolver": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Working\\db\\persian words\\distinct_words.txt\" 5 20"
+    }
+  }
+}
